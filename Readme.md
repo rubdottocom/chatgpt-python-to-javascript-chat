@@ -2,7 +2,7 @@ Tu tarea es convertir a Javascript este script de python.
 1. Lee con atención el código
 2. Define un plan para hacer la conversión
 3. Reflexiona sobre los puntos críticos: descarga de fichero, resolver dependencias de python en JS
-4, Ejecuta el plan y convierte el código poco a poco, tu respuesta puede extenderse en varios mensajes, ya uniré yo las partes. 
+4. Ejecuta el plan y convierte el código poco a poco, tu respuesta puede extenderse en varios mensajes, ya uniré yo las partes. 
 
 Código: 
 ##### 
